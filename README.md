@@ -24,6 +24,7 @@ I am Arshul, a passionate developer, who loves solving problems and working with
   </a>
   
  </p>
+ 
  <p float="left">
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/arshul/arshul/master/assets/docker.gif"  height="80" /> 
@@ -40,7 +41,7 @@ I am Arshul, a passionate developer, who loves solving problems and working with
  <p float="left">
   <a href="https://firebase.google.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/arshul/arshul/master/assets/firebase.gif"  height="75" />
-  </a> 
+  </a> &nbsp;&nbsp;
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/arshul/arshul/master/assets/aws.gif"  height="75" />
   </a>
