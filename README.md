@@ -22,6 +22,9 @@ I am Arshul, a passionate developer, who loves solving problems and working with
   <a href="https://www.python.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/arshul/arshul/master/assets/python.webp"  height="75" />
   </a>
+  
+ </p>
+ <p float="left">
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/arshul/arshul/master/assets/docker.gif"  height="80" /> 
   </a>
@@ -29,9 +32,8 @@ I am Arshul, a passionate developer, who loves solving problems and working with
   <a href="https://www.terraform.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/arshul/arshul/master/assets/terraform.gif" width="120" />
   </a>
-  
-  
  </p>
+
   
 ### CSPs
   
