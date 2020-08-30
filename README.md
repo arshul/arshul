@@ -7,7 +7,7 @@ I am Arshul, a passionate developer, who loves solving problems and working with
 
 <p float="left">
   <a href="https://reactjs.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/arshul/arshul/master/assets/react.webp"  height="90" />
+    <img src="https://raw.githubusercontent.com/arshul/arshul/master/assets/react.gif"  height="90" />
   </a>
   <a href="https://nodejs.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/arshul/arshul/master/assets/node.gif"  height="75" />
