@@ -4,28 +4,31 @@ I am Arshul, a passionate developer, who loves solving problems and working with
 
 
 ### 🔭 I usually work on ...
-
+### Frontend
 <p float="left">
   <a href="https://reactjs.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/arshul/arshul/master/assets/react.gif"  height="90" />
   </a>
-  <a href="https://nodejs.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/arshul/arshul/master/assets/node.gif"  height="75" />
-  </a>
   <a href="https://graphql.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/arshul/arshul/master/assets/graphql.gif"  height="75" />
   </a> 
-
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://raw.githubusercontent.com/arshul/arshul/master/assets/html-css-js.png" height="70" />
   </a>
-  <a href="https://www.python.org/" target="_blank" >
+</p> 
+
+### Backend
+<p float="left">
+  <a href="https://nodejs.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/arshul/arshul/master/assets/node.gif"  height="75" />
+  </a>
+   <a href="https://www.python.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/arshul/arshul/master/assets/python.webp"  height="75" />
   </a>
-  
- </p>
- 
- <p float="left">
+</p>
+
+### DevOps
+<p float="left">
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/arshul/arshul/master/assets/docker.gif"  height="80" /> 
   </a>
@@ -33,7 +36,7 @@ I am Arshul, a passionate developer, who loves solving problems and working with
   <a href="https://www.terraform.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/arshul/arshul/master/assets/terraform.gif" width="120" />
   </a>
- </p>
+</p>
 
   
 ### CSPs
@@ -66,6 +69,7 @@ I am Arshul, a passionate developer, who loves solving problems and working with
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/arshul/) 👨🏻‍💻 <br>
   ⦿ Follow me on [Twitter](https://twitter.com/arshul_mohd) 🐦 <br>
   ⦿ Send an [Email](mailto:arshulmohd123@gmail.com) 💌 <br>
+  ⦿ Want to know more, take a look at my [Resume](https://drive.google.com/file/d/11JONJPuWGWW3snDmkvzT10UZzQUqVKWO/view) 😄 <br>
 <!--
 **arshul/arshul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
